@@ -492,8 +492,6 @@ text .span-footer {
 }
 
 .personand {
-  margin: 0;
   width: calc((100% - 48px) / 3);
-    
 }
 
